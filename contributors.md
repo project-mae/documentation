@@ -1,3 +1,11 @@
+### Open Leadership Roles
+* Copywriter
+* Photographer
+* Virtual Machine Software Engineering
+* Security Czar
+* MAE User Console Engineering
+* Project Manager
+
 ### Lead Visionaries
 | Name  | Avatar/Image | Location | Role |
 | ------------- | ------------- | ------------- | ------------- |
@@ -5,11 +13,7 @@
 | [Greg Burnham](https://github.com/EagleRoboticsFTC) | <img src="https://github.com/EagleRoboticsFTC.png" width=100> | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Robotics Engineering<br/>Structural Assembly |
 | [Charles Logston](https://github.com/BESTTeam58) | <img src="https://github.com/BESTTeam58.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Electrical Engineering<br/>Structural Assembly |
 | [Lisa Jang](https://github.com/mrsjang21) | <img src="https://github.com/mrsjang21.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Electronics Engineering<br/>Structural Assembly |
-### Roles in Need of Leaders
-* Copywriter
-* Photographer
-* Virtual Machine Software Engineering
-* Security Czar
+
 ### Team Managers
 | Name  | Avatar/Image | Location | Role |
 | ------------- | ------------- | ------------- | ------------- |
