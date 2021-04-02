@@ -6,6 +6,14 @@
 * MAE User Console Engineering
 * Project Manager
 
+### Open Volunteer Roles
+| Role  | Vacancies | Skill Requirements |
+| ------------- | ------------- | ------------- |
+| User Experience | 2 | None |
+| User Interface | 3 | None |
+| Hardware CAD Design | 2 | Knowledge of CAD (SolidEdge preferred) and 3D printing |
+| Systems Integration | 2 | None |
+
 ### Lead Visionaries
 | Name  | Avatar/Image | Location | Role |
 | ------------- | ------------- | ------------- | ------------- |
@@ -17,10 +25,10 @@
 ### Team Managers
 | Name  | Avatar/Image | Location | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| [Connor Redman](https://github.com/connor-redman) | <img src="https://github.com/connor-redman.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Hardware Design and Robotics Co-manager |
-| [Grayson Guinn](https://github.com/GraysonGuinn) | <img src="https://github.com/GraysonGuinn.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA |  Hardware Design and Robotics Co-manager |
+| [Connor Redman](https://github.com/connor-redman) | <img src="https://github.com/connor-redman.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Hardware & CAD Design Co-manager |
+| [Grayson Guinn](https://github.com/GraysonGuinn) | <img src="https://github.com/GraysonGuinn.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA |  Hardware & CAD Design Co-manager |
 | [Sahil Sheth](https://github.com/ThatGuy) | <img src="https://github.com/ThatGuy.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | UX Manager |
-| [Mukul Agarwal](https://github.com/agarmu) | <img src="https://github.com/agarmu.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Instruction Set Architect |
+| [Mukul Agarwal](https://github.com/agarmu) | <img src="https://github.com/agarmu.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Instruction Set Architect Manager |
 | [Vaishnavi Susarla](https://github.com/vaishnavi-debug) | <img src="https://github.com/vaishnavi-debug.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Secretary Manager |
 | [Vedant Singhania](https://github.com/vedant205) | <img src="https://github.com/vedant205.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Webmaster Manager |
 | [Akshat Shah](http://github.com/akshatdotcom) | <img src="https://github.com/akshatdotcom.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Systems Integration Manager |
