@@ -5,6 +5,7 @@
 * Security Czar
 * MAE User Console Engineering
 * Project Manager
+* Lighting Electronics Assembly
 
 ### Open Volunteer Roles
 | Role  | Vacancies | Skill Requirements |
@@ -14,6 +15,7 @@
 | Hardware CAD Design | 2 | Knowledge of CAD (SolidEdge preferred) and 3D printing |
 | Systems Integration | 2 | None |
 | Secretary | 1 | None |
+| Software Quality Assurance | 2 | None |
 
 ### Lead Visionaries
 | Name  | Avatar/Image | Location | Role |
