@@ -1,7 +1,6 @@
 ### Open Leadership Roles
 * Copywriter
 * Photographer
-* Virtual Machine Software Engineering
 * Security Czar
 * MAE User Console Engineering
 * Project Manager
