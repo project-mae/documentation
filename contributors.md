@@ -36,4 +36,5 @@
 | [Akshat Shah](http://github.com/akshatdotcom) | <img src="https://github.com/akshatdotcom.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Systems Integration Manager |
 | [Chris Morgan](http://github.com/dynafide) | <img src="https://github.com/dynafide.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Repository and Release Manager |
 | [Nidhi Pabbathi](http://github.com/SheLikesPigs) | <img src="https://github.com/SheLikesPigs.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | UI Manager |
-| [Noah Chin](http://github.com) | <img src="https://github.com" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Quality Assurance Manager |
+| [Noah Chin](http://github.com/PuffinFish101) | <img src="https://github.com/PuffinFish101.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Software Quality Assurance Manager |
+| [Jonathan He](http://github.com/hejonathan) | <img src="https://github.com/hejonathan.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | VM Softwar Engineering Manager |
