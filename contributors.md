@@ -1,4 +1,5 @@
 ### Open Leadership Roles
+
 * Copywriter
 * Photographer
 * Security Czar
@@ -7,6 +8,7 @@
 * Lighting Electronics Assembly
 
 ### Open Volunteer Roles
+
 | Role  | Vacancies | Skill Requirements |
 | ------------- | ------------- | ------------- |
 | User Experience | 2 | None |
@@ -17,6 +19,7 @@
 | Software Quality Assurance | 2 | None |
 
 ### Lead Visionaries
+
 | Name  | Avatar/Image | Location | Role |
 | ------------- | ------------- | ------------- | ------------- |
 | [David Ben-Yaakov](https://github.com/maestro-b) | <img src="https://github.com/maestro-b.png" width=100> | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Software Architecture, Design, and Engineering |
@@ -25,6 +28,7 @@
 | [Lisa Jang](https://github.com/mrsjang21) | <img src="https://github.com/mrsjang21.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Electronics Engineering<br/>Structural Assembly |
 
 ### Team Managers
+
 | Name  | Avatar/Image | Location | Role | Description of Role |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Connor Redman](https://github.com/connor-redman) | <img src="https://github.com/connor-redman.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Hardware & CAD Design Co-manager |  |
