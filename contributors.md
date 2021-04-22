@@ -35,7 +35,7 @@
 | [Grayson Guinn](https://github.com/GraysonGuinn) | <img src="https://github.com/GraysonGuinn.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA |  Hardware & CAD Design Co-manager |  |
 | [Sahil Sheth](https://github.com/ThatGuy) | <img src="https://github.com/ThatGuy.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | UX Manager |  |
 | [Mukul Agarwal](https://github.com/agarmu) | <img src="https://github.com/agarmu.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Instruction Set Architect Manager |  |
-| [Vaishnavi Susarla](https://github.com/vaishnavi-debug) | <img src="https://github.com/vaishnavi-debug.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Secretary Manager |  |
+| [Vaishnavi Susarla](https://github.com/vaishnavi-debug) | <img src="https://github.com/vaishnavi-debug.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Secretary Manager | In charge of gathering information from all teams to condense said information in an organized fashion. This involves a lot of communication with other teams and also consists of managing potential applicants to the project as well. |
 | [Vedant Singhania](https://github.com/vedant205) | <img src="https://github.com/vedant205.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Webmaster Manager |  |
 | [Akshat Shah](http://github.com/akshatdotcom) | <img src="https://github.com/akshatdotcom.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Systems Integration Manager |  |
 | [Chris Morgan](http://github.com/dynafide) | <img src="https://github.com/dynafide.png" width=100>  | STEAM Center<br/>Allen ISD<br/>Allen, Texas, USA | Repository and Release Manager |  |
