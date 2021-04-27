@@ -33,6 +33,10 @@
 //}
 //
 
+.img-top {
+padding-top: 0.5rem
+}
+
 body {
   padding: 0;
   margin: 0;
@@ -330,8 +334,7 @@ a {
 
     th,
     td {
-      padding: 0.5rem 1rem;
-      border: 1px solid $table-border-color;
+      padding: 0rem 1rem 0rem 0rem ;
     }
   }
 
@@ -361,7 +364,7 @@ a {
 }
 
 .site-footer {
-  padding-top: 2rem;
+  padding-top: 1rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
 
@@ -380,7 +383,7 @@ a {
 
 .site-footer-owner {
   display: block;
-  font-weight: bold;
+  border: none
 }
 
 .site-footer-credits {
